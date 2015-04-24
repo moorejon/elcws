@@ -1,0 +1,13 @@
+eLearning Consultancy Web Services
+Based on Web service template plugin for Moodle 2.X by Jerome Mouneyrac
+------------------------------------------
+
+This local plugin provides additional web service functions not provided by
+the Moodle core API.
+
+
+1- install the plugin in Moodle local folder
+2- follow standard instructions for Moodle WS setup adding these additional functions as needed
+
+
+
